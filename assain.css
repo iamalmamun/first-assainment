@@ -1,0 +1,134 @@
+.container{
+    position: relative;
+    text-align: center;
+}
+.prothom{
+    width:1100px;
+}
+.banner-headline{
+    position: absolute;
+    margin-top: -370px;
+    margin-left: 797px;
+    text-align: right;
+    font-size: 34px;
+}
+.contact-us-button{
+    position: absolute;
+    margin-top: 400px;
+    width: 80px;
+    height: 35px;
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    margin-left: -241px;
+}
+.middle-contain{
+    
+    position: absolute;
+    margin-top: -238px;
+    margin-left: 706px;
+    text-align: right;
+    font-size: small;
+}
+.personal-cv{
+    position: relative;
+}
+.man-photo{
+    width: 300px;
+    margin-left: 20%;
+}
+.text-headline{
+    margin-top: -270px;
+    margin-left: 50%;
+}
+.text-left{
+    margin-left: 623px;
+    font-size: x-small;
+}
+.list-margin{
+    margin-left: 600px;
+    font-size: x-small;
+}
+.habit-plan{
+    margin-top: 150px;
+    text-align: center;
+}
+.right-side{
+    margin-left: 375px;
+    width: 50px;
+}
+.income-koko{
+    margin-left: 325px;
+    margin-top: -5px;
+}
+.kala-manu{
+    margin-left: 350px;
+    margin-top: -12px;
+}
+.java-script{
+    width: 50px;
+    margin-left: 552px;
+    margin-bottom: 200px;
+    margin-top: -112px;
+}
+.serial-under{
+    margin-top: -205px;
+    margin-left: 533px;
+}
+.java-under{
+    margin-left: 528px;
+    margin-top: -10px;
+}
+.smoke-habit{
+    margin-left: 698px;
+    width: 50px;
+    margin-top: -351px;
+    margin-bottom: 76px;
+}
+.cancer-hobe{
+    margin-left: 669px;
+    margin-top: -81px;
+}
+.shera-hobe{
+    margin-left: 685px;
+    margin-top: -10px;
+}
+.ecommerce-section{
+    margin-left: 866px;
+    margin-top: -152px;
+    margin-bottom: 76px;
+    width: 50px;
+}
+.daraz-icon{
+    margin-left: 849px;
+    margin-top: -82px;
+}
+.monarch-mart{
+    margin-left: 838px;
+    margin-top: -10px;
+}
+.contact{
+    display: flex;
+    gap: 100px;
+    
+}
+.contact .section-title{
+    text-align: left;
+}
+footer{
+    background-color: black;
+    color:aliceblue;
+    display: flex;
+    gap: 100px;
+}
+.center-side{
+    margin-left: 300px;
+    margin-top: 20px;
+}
+button{
+    color: coral;
+    margin-top: 10px;
+}
+.side-show{
+    margin-left: 75px;
+}
